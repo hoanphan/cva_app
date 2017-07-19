@@ -1,0 +1,99 @@
+﻿Installing assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+Rolling back assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+Removing EventLog source AutoSendEmail.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+Rolling back assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+Rolling back assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+Rolling back assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+Installing service AutoSendEmail...
+Creating EventLog source AutoSendEmail in log Application...
+Rolling back assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+Restoring event log to previous state for source AutoSendEmail.
+Installing assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+Installing service AutoSendEmailInterval...
+Creating EventLog source AutoSendEmailInterval in log Application...
+Rolling back assembly 'D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.InstallLog
+   assemblypath = D:\OneDrive\Projects\CVA\SchoolManagement\AutoGenerateAndSendEmail\bin\Debug\AutoGenerateAndSendEmail.exe
+   logtoconsole = 
+Restoring event log to previous state for source AutoSendEmailInterval.

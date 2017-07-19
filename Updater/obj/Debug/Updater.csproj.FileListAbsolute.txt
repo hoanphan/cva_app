@@ -1,0 +1,17 @@
+D:\OneDrive\Projects\CVA\SchoolManagement\Updater\bin\Debug\Updater.exe.config
+D:\OneDrive\Projects\CVA\SchoolManagement\Updater\bin\Debug\Updater.exe
+D:\OneDrive\Projects\CVA\SchoolManagement\Updater\bin\Debug\Updater.pdb
+D:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.frmCapNhat.resources
+D:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.Properties.Resources.resources
+D:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+D:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.exe
+D:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.pdb
+F:\OneDrive\Projects\CVA\SchoolManagement\Updater\bin\Debug\Updater.exe.config
+F:\OneDrive\Projects\CVA\SchoolManagement\Updater\bin\Debug\Updater.exe
+F:\OneDrive\Projects\CVA\SchoolManagement\Updater\bin\Debug\Updater.pdb
+F:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+F:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.frmCapNhat.resources
+F:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.Properties.Resources.resources
+F:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+F:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.exe
+F:\OneDrive\Projects\CVA\SchoolManagement\Updater\obj\Debug\Updater.pdb
